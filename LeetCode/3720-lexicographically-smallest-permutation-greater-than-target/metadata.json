@@ -1,0 +1,10 @@
+{
+  "platform": "LeetCode",
+  "problem": "Lexicographically Smallest Permutation Greater Than Target",
+  "problemNumber": 3720,
+  "problemKey": "leetcode:3720",
+  "language": "cpp",
+  "url": "https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/?envType=daily-question&envId=2026-08-27",
+  "savedBy": "7c9de621-eb43-4892-9097-197652733a38",
+  "difficulty": "Medium"
+}
