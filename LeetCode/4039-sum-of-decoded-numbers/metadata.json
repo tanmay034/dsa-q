@@ -3,7 +3,7 @@
   "problem": "Sum of Decoded Numbers",
   "problemNumber": 4039,
   "problemKey": "leetcode:4039",
-  "language": "cpp",
+  "language": "python",
   "url": "https://leetcode.com/problems/sum-of-decoded-numbers/",
   "savedBy": "7c9de621-eb43-4892-9097-197652733a38",
   "difficulty": "Medium"
