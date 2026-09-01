@@ -15,7 +15,7 @@ class Solution {
             int digits = 0;
             while (t>0) {
                 digits++;
-                t /= 10;
+                t /= 10; 
             }
 
 
