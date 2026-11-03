@@ -1,0 +1,10 @@
+{
+  "platform": "LeetCode",
+  "problem": "Count Rotations With Exactly K Equal Adjacent Pairs",
+  "problemNumber": 4043,
+  "problemKey": "leetcode:4043",
+  "language": "cpp",
+  "url": "https://leetcode.com/problems/count-rotations-with-exactly-k-equal-adjacent-pairs/description/",
+  "savedBy": "7c9de621-eb43-4892-9097-197652733a38",
+  "difficulty": "Easy"
+}
