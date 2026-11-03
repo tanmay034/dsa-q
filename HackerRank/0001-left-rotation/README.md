@@ -1,6 +1,6 @@
 # Left Rotation
 
-> **Platform:** `HackerRank` | **Language:** `JAVASCRIPT` | [Problem Link](https://www.hackerrank.com/challenges/array-left-rotation/problem?isFullScreen=true)
+> **Platform:** `HackerRank` | **Language:** `CPP` | [Problem Link](https://www.hackerrank.com/challenges/array-left-rotation/problem?isFullScreen=true)
 
 ---
 
@@ -65,8 +65,9 @@ To perform  left rotations, the array undergoes the following sequence of change
 
 ## Solution
 
-```javascript
-for (int i = 0; i < n; ++i) 
+```cpp
+}
+};class Solution {
             same += s[i] == s[(i + 1) % n];
         return k == same - 1 ? same : k == same ? n - same : 0;
     }
@@ -77,10 +78,6 @@ public:
         for (int i = 0; i < n; ++i) 
             same += s[i] == s[(i + 1) % n];
         return k == same - 1 ? same : k == same ? n - same : 0;
-    }
-};class Solution {
-public:
-    int countRotations(string s, int k) {
         int n = s.size(), same = 0;
         for (int i = 0; i < n; ++i) 
             same += s[i] == s[(i + 1) % n];
@@ -91,9 +88,14 @@ public:
     int countRotations(string s, int k) {
         int n = s.size(), same = 0;
         for (int i = 0; i < n; ++i) 
-            same += s[i] == s[(i + 1) % n];
-        return k == same - 1 ? same : k == same ? n - same : 0;
+};class Solution {
+public:
+    int countGoodRotations(vector<int>& nums) {
+        
     }
+};class Solution {
+public:
+    int countRotations(string s, int k) {
 };class Solution {
 public:
     int countRotations(string s, int k) {
@@ -102,7 +104,6 @@ public:
             same += s[i] == s[(i + 1) % n];
         return k == same - 1 ? same : k == same ? n - same : 0;
     }
-};
 ```
 
 ---
