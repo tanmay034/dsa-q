@@ -1,0 +1,10 @@
+{
+  "platform": "LeetCode",
+  "problem": "Count Good Cyclic Rotations",
+  "problemNumber": 4044,
+  "problemKey": "leetcode:4044",
+  "language": "cpp",
+  "url": "https://leetcode.com/problems/count-good-cyclic-rotations/",
+  "savedBy": "7c9de621-eb43-4892-9097-197652733a38",
+  "difficulty": "Medium"
+}
